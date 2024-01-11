@@ -1,5 +1,5 @@
 # HBOMax.com Clone
-Clone da página inicial do site da [HBO Max](https://www.hbomax.com) desenvolvido com TailwindCSS e Next 13.
+Clone da página inicial do site da [HBO Max](https://www.hbomax.com) desenvolvido com Next 13 e TailwindCSS.
 
 ## Preview
 
@@ -23,13 +23,13 @@ Clone da página inicial do site da [HBO Max](https://www.hbomax.com) desenvolvi
 Clone o projeto
 
 ```bash
-  git clone https://github.com/nicomoraes/hbomax-clone.git
+  git clone https://github.com/nicomoraes/hbomax-home-clone.git
 ```
 
 Entre no diretório do projeto
 
 ```bash
-  cd hbomax-clone
+  cd hbomax-home-clone
 ```
 
 Instale as dependências

@@ -6,7 +6,7 @@ import FaqAccordion from "@/components/FaqAccordion";
 import FreeEpisodesSlide from "@/components/FreeEpisodesSlide";
 import NewReleasesSlide from "@/components/NewReleasesSlide";
 
-import { PAYMENT_PLANS } from "@/utils/plans";
+import { PAYMENT_PLANS } from "@/constants/plans";
 
 export default function Home() {
   return (

@@ -8,7 +8,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import SlideItem from "./components/SlideItem";
 import { SlideButton } from "./components/SlideButton";
 
-import { FREE_EPISODES } from "@/utils/free-episodes";
+import { FREE_EPISODES } from "@/constants/free-episodes";
 
 const FreeEpisodesSlide = () => {
   const swiperRef = useRef<SwiperCore>();

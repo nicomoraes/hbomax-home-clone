@@ -6,7 +6,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import SlideItem from "./components/SlideItem";
 import { SlideButton, SlideDotButton } from "./components/SlideButton";
 
-import { RELEASES_DATA } from "@/utils/new-releases";
+import { RELEASES_DATA } from "@/constants/new-releases";
 
 const NewReleasesSlide = () => {
   const slideLenght = RELEASES_DATA.length;

@@ -6,7 +6,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 
 import Card from "./components/Card";
 
-import { HBO_BRAND_CARDS_DATA } from "@/utils/brand-cards";
+import { HBO_BRAND_CARDS_DATA } from "@/constants/brand-cards";
 
 const BrandCard = () => {
   const swiperRef = useRef<SwiperCore>();
