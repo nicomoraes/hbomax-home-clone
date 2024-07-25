@@ -12,12 +12,6 @@ Clone da página inicial do site da [HBO Max](https://www.hbomax.com) desenvolvi
 * **Framework**: Next.js
 * **Estilização**: Tailwind CSS
 
-## TODO
-
-- [ ] **Accordion na seção das marcas**: Mostrar os conteúdos relacionados às marcas relacionadas, assim como acontece no site oficial.
-
-- [ ]  **Player de vídeo**: Apresentar os trailers dos filmes e séries em na seção de novos lançamentos.
-
 ## Rodando localmente
 
 Clone o projeto
